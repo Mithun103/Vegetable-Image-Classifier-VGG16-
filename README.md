@@ -2,18 +2,6 @@
 
 This project implements a vegetable image classifier using a pre-trained VGG16 model, fine-tuned for a multiclass classification task. The goal is to accurately identify different types of vegetables from images.
 
-## **Table of Contents**
-
-* [Project Overview](https://www.google.com/search?q=%23project-overview)  
-* [Setup Instructions](https://www.google.com/search?q=%23setup-instructions)  
-* [Dataset](https://www.google.com/search?q=%23dataset)  
-* [Model Architecture](https://www.google.com/search?q=%23model-architecture)  
-* [Training and Evaluation](https://www.google.com/search?q=%23training-and-evaluation)  
-* [Results](https://www.google.com/search?q=%23results)  
-  * [Training Confusion Matrix](https://www.google.com/search?q=%23training-confusion-matrix)  
-  * [Validation Confusion Matrix](https://www.google.com/search?q=%23validation-confusion-matrix)  
-  * [Sample Predictions](https://www.google.com/search?q=%23sample-predictions)  
-* [How to Run](https://www.google.com/search?q=%23how-to-run)
 
 ## **Project Overview**
 
