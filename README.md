@@ -158,8 +158,8 @@ The training process involves iterating through the training data, performing fo
 ### **Sample Predictions**
 
 Here are some sample predictions from the model on validation images. The title indicates "T: True Class" and "P: Predicted Class". A green border/title indicates a correct prediction, while a red one indicates an incorrect prediction.
+![Uploading image.png…]()
 
-\<img src="[https://placehold.co/1000x300/E0E0E0/333333?text=Sample+Predictions+Image+Placeholder](https://www.google.com/search?q=https://placehold.co/1000x300/E0E0E0/333333?text%3DSample%2BPredictions%2BImage%2BPlaceholder)" alt="Sample Predictions" style="width:100%; border-radius:8px;"\>
 
 *Note: This is a placeholder image. Please replace with your actual generated image display.*
 
