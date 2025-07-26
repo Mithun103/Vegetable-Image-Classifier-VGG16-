@@ -158,7 +158,8 @@ The training process involves iterating through the training data, performing fo
 ### **Sample Predictions**
 
 Here are some sample predictions from the model on validation images. The title indicates "T: True Class" and "P: Predicted Class". A green border/title indicates a correct prediction, while a red one indicates an incorrect prediction.
-![Uploading image.png…]()
+<img width="1990" height="246" alt="image" src="https://github.com/user-attachments/assets/2f7019a7-94c0-4782-a500-feab4811d992" />
+
 
 
 *Note: This is a placeholder image. Please replace with your actual generated image display.*
