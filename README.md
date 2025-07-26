@@ -101,47 +101,13 @@ The training process involves iterating through the training data, performing fo
 
 ### **Training Confusion Matrix**
 
-|  | Bean | Bitter\_Gourd | Bottle\_Gourd | Brinjal | Broccoli | Cabbage | Capsicum | Carrot | Cauliflower | Cucumber | Papaya | Potato | Pumpkin | Radish | Tomato |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Bean** | 100 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Bitter\_Gourd** | 0 | 99 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Bottle\_Gourd** | 0 | 0 | 100 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Brinjal** | 0 | 0 | 0 | 99 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Broccoli** | 0 | 0 | 0 | 0 | 100 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Cabbage** | 0 | 0 | 0 | 0 | 0 | 99 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Capsicum** | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Carrot** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 99 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Cauliflower** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 99 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Cucumber** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 | 0 | 0 | 0 | 0 |
-| **Papaya** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 99 | 0 | 0 | 0 | 0 |
-| **Potato** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 | 0 | 0 |
-| **Pumpkin** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 99 | 0 | 0 |
-| **Radish** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 |
-| **Tomato** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 99 |
+<img width="865" height="778" alt="image" src="https://github.com/user-attachments/assets/42b89a8b-bab7-48ee-8f41-c2ba84d28b89" />
 
-*Note: This is a placeholder table. Please replace with your actual training confusion matrix data.*
 
 ### **Validation Confusion Matrix**
 
-|  | Bean | Bitter\_Gourd | Bottle\_Gourd | Brinjal | Broccoli | Cabbage | Capsicum | Carrot | Cauliflower | Cucumber | Papaya | Potato | Pumpkin | Radish | Tomato |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Bean** | 75 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Bitter\_Gourd** | 0 | 100 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Bottle\_Gourd** | 0 | 0 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Brinjal** | 0 | 0 | 0 | 97 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Broccoli** | 0 | 0 | 0 | 0 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Cabbage** | 0 | 0 | 0 | 0 | 0 | 100 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Capsicum** | 0 | 0 | 0 | 0 | 0 | 0 | 99 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Carrot** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 99 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Cauliflower** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Cucumber** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 94 | 0 | 0 | 0 | 0 | 0 |
-| **Papaya** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 95 | 0 | 0 | 0 | 0 |
-| **Potato** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 96 | 0 | 0 | 0 |
-| **Pumpkin** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 94 | 0 | 0 |
-| **Radish** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 |
-| **Tomato** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 |
+<img width="865" height="778" alt="image" src="https://github.com/user-attachments/assets/db497440-4876-4626-894e-35bd1ef18cd2" />
 
-*Note: This is a placeholder table. Please replace with your actual validation confusion matrix data.*
 
 ### **Sample Predictions**
 
@@ -149,12 +115,3 @@ Here are some sample predictions from the model on validation images. The title 
 <img width="1990" height="246" alt="image" src="https://github.com/user-attachments/assets/2f7019a7-94c0-4782-a500-feab4811d992" />
 
 
-
-*Note: This is a placeholder image. Please replace with your actual generated image display.*
-
-## **How to Run**
-
-1. **Ensure all dependencies are installed** as listed in the [Setup Instructions](https://www.google.com/search?q=%23setup-instructions).  
-2. **Download and set up the dataset** as described in the [Dataset](https://www.google.com/search?q=%23dataset) section.  
-3. **Open the Jupyter Notebook** Vegetableclassifier-vgg16.ipynb in a Jupyter environment (e.g., JupyterLab, VS Code with Jupyter extension).  
-4. **Run all cells sequentially** from top to bottom. The notebook will handle data loading, model definition, training, evaluation, and visualization.
